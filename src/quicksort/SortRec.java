@@ -1,6 +1,6 @@
 package quicksort;
 
-public class Sort {
+public class SortRec {
 	
 	static int partition(int[] array,int low,int high) {
 		int pivot=array[high];
